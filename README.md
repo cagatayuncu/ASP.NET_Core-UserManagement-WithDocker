@@ -39,21 +39,3 @@ In the Swagger token API, tokens can be obtained using the request body below.
 ```
 The project runs entirely on docker, and I used sqlite so that everyone can use and test it by simply installing docker on their computer.
 
-
-
-## Technologies
-
-- ASP.NET CORE 3.1
-
-- Repository Design Pattern 
-
-- Entitiy Framework Core (Code First).
-
-- Docker 
-
-- Swagger
-
-- SQLite
-
-- LINQ method
-
